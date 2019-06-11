@@ -1,0 +1,24 @@
+{
+  "name": "express-ejs-example",
+  "version": "1.0.0",
+  "description": "A simple ejs example",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virtualkur2/express-ejs-example.git"
+  },
+  "author": "Mauricio Contreras",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/virtualkur2/express-ejs-example/issues"
+  },
+  "homepage": "https://github.com/virtualkur2/express-ejs-example#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.1"
+  }
+}
