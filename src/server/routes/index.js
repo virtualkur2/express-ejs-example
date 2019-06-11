@@ -1,7 +1,7 @@
 const routes = (router) => {
   router.route('/')
     .get((req, res, next) => {
-      res.render('index', {title: 'The index page'});
+      res.render('index', {pageTitle: 'Index page', title: 'The index page'});
     });
   return router;
 }
