@@ -19,6 +19,6 @@
   "homepage": "https://github.com/virtualkur2/express-ejs-example#readme",
   "dependencies": {
     "ejs": "^2.6.1",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
